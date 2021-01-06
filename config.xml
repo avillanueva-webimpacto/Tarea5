@@ -1,0 +1,13 @@
+<?xml version="1.0.0" encoding="UTF-8" ?>
+<module>
+    <name>viewtextproduct</name>
+    <displayName><![CDATA[Mostrar texto en un producto]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Tarea n&uacute;mero 5 de Prestashop para webImpacto]]></description>
+    <author><![CDATA[Anthony]]></author>
+    <tab><![CDATA[]]></tab>
+	<confirmUninstall><![CDATA[¿Quieres desinstalar este modulo?]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
